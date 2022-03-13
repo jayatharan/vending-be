@@ -1,0 +1,36 @@
+{
+    "users":[
+        {
+            "username":"admin",
+            "email":"admin@gmail.com",
+            "role":"admin",
+            "password":"123456"
+        }
+    ],
+    "products":[
+        {
+            "name":"Product 1",
+            "img_name":"default.png",
+            "info":"A product description.",
+            "cost":300.99
+        },
+        {
+            "name":"Product 2",
+            "img_name":"default.png",
+            "info":"A product description.",
+            "cost":199.99
+        },
+        {
+            "name":"Product 3",
+            "img_name":"default.png",
+            "info":"A product description.",
+            "cost":299.99
+        },
+        {
+            "name":"Product 4",
+            "img_name":"default.png",
+            "info":"A product description.",
+            "cost":399.99
+        }
+    ]
+}
